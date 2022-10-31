@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://karanveermanohar.github.io/csb-zx3oqi/static/css/main.f397d47e.chunk.css",
+    "main.js": "https://karanveermanohar.github.io/csb-zx3oqi/static/js/main.a9fe44e9.chunk.js",
+    "main.js.map": "https://karanveermanohar.github.io/csb-zx3oqi/static/js/main.a9fe44e9.chunk.js.map",
+    "runtime-main.js": "https://karanveermanohar.github.io/csb-zx3oqi/static/js/runtime-main.ed356c58.js",
+    "runtime-main.js.map": "https://karanveermanohar.github.io/csb-zx3oqi/static/js/runtime-main.ed356c58.js.map",
+    "static/js/2.889b27f3.chunk.js": "https://karanveermanohar.github.io/csb-zx3oqi/static/js/2.889b27f3.chunk.js",
+    "static/js/2.889b27f3.chunk.js.map": "https://karanveermanohar.github.io/csb-zx3oqi/static/js/2.889b27f3.chunk.js.map",
+    "index.html": "https://karanveermanohar.github.io/csb-zx3oqi/index.html",
+    "static/css/main.f397d47e.chunk.css.map": "https://karanveermanohar.github.io/csb-zx3oqi/static/css/main.f397d47e.chunk.css.map",
+    "static/js/2.889b27f3.chunk.js.LICENSE.txt": "https://karanveermanohar.github.io/csb-zx3oqi/static/js/2.889b27f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed356c58.js",
+    "static/js/2.889b27f3.chunk.js",
+    "static/css/main.f397d47e.chunk.css",
+    "static/js/main.a9fe44e9.chunk.js"
+  ]
+}
